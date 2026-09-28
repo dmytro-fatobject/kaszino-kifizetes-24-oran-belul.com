@@ -1,0 +1,267 @@
+{
+  "_howToUse": "Czytaj ten plik na początku każdego zadania z brandami. Znajdź potrzebne brandy po kluczu, rating przedstawiaj z ratings[] po rank-pozycji (nie po brandzie). Linki generuj za ctaUrl.",
+  "ratings": {
+    "1": {
+      "score": "9.8",
+      "stars": [
+        "full",
+        "full",
+        "full",
+        "full",
+        "full"
+      ]
+    },
+    "2": {
+      "score": "9.6",
+      "stars": [
+        "full",
+        "full",
+        "full",
+        "full",
+        "full"
+      ]
+    },
+    "3": {
+      "score": "9.4",
+      "stars": [
+        "full",
+        "full",
+        "full",
+        "full",
+        "half"
+      ]
+    },
+    "4": {
+      "score": "9.2",
+      "stars": [
+        "full",
+        "full",
+        "full",
+        "full",
+        "half"
+      ]
+    },
+    "5": {
+      "score": "9.0",
+      "stars": [
+        "full",
+        "full",
+        "full",
+        "full",
+        "half"
+      ]
+    },
+    "6": {
+      "score": "8.8",
+      "stars": [
+        "full",
+        "full",
+        "full",
+        "full",
+        "empty"
+      ]
+    },
+    "7": {
+      "score": "8.6",
+      "stars": [
+        "full",
+        "full",
+        "full",
+        "full",
+        "empty"
+      ]
+    },
+    "8": {
+      "score": "8.4",
+      "stars": [
+        "full",
+        "full",
+        "full",
+        "full",
+        "empty"
+      ]
+    },
+    "9": {
+      "score": "8.2",
+      "stars": [
+        "full",
+        "full",
+        "full",
+        "full",
+        "empty"
+      ]
+    },
+    "10": {
+      "score": "8.0",
+      "stars": [
+        "full",
+        "full",
+        "full",
+        "half",
+        "empty"
+      ]
+    }
+  },
+  "brands": {
+    "vox": {
+      "rank": 1,
+      "name": "Vox Casino",
+      "logo": "assets/logos/vox.svg",
+      "logoBg": "linear-gradient(145deg, #001a33 0%, #003366 100%)",
+      "bonusPrefix": "100% do",
+      "bonusMain": "200 000 HUF",
+      "bonusSuffix": "50 darmowych spinów",
+      "bonusAmount": "100% do 200 000 HUF + 50 darmowych spinów",
+      "minDeposit": "5 000 HUF",
+      "wagering": "30x",
+      "withdrawalTime": "1–5 dni",
+      "license": "Curaçao",
+      "games": "4 000+",
+      "ctaUrl": "https://go.kaszino-kifizetes-24-oran-belul.com/SKbhdC?keyword=vox"
+    },
+    "rollingslots": {
+      "rank": 2,
+      "name": "Rolling Slots Casino",
+      "logo": "assets/logos/rollingslots.svg",
+      "logoBg": "linear-gradient(145deg, #1a1a00 0%, #3d3d00 100%)",
+      "bonusPrefix": "100% do",
+      "bonusMain": "220 000 HUF",
+      "bonusSuffix": "20 darmowych spinów",
+      "bonusAmount": "100% do 220 000 HUF + 20 darmowych spinów",
+      "minDeposit": "8 000 HUF",
+      "wagering": "45x",
+      "withdrawalTime": "1–4 dni",
+      "license": "Curaçao",
+      "games": "3 000+",
+      "ctaUrl": "https://go.kaszino-kifizetes-24-oran-belul.com/SKbhdC?keyword=rollingslots"
+    },
+    "slotoro": {
+      "rank": 3,
+      "name": "Slotoro Casino",
+      "logo": "assets/logos/slotoro.svg",
+      "logoBg": "linear-gradient(145deg, #001a1a 0%, #003d3d 100%)",
+      "bonusPrefix": "100% do",
+      "bonusMain": "150 000 HUF",
+      "bonusSuffix": "100 darmowych spinów",
+      "bonusAmount": "100% do 150 000 HUF + 100 darmowych spinów",
+      "minDeposit": "3 000 HUF",
+      "wagering": "40x",
+      "withdrawalTime": "do 5 dni",
+      "license": "Curaçao",
+      "games": "3 000+",
+      "ctaUrl": "https://go.kaszino-kifizetes-24-oran-belul.com/SKbhdC?keyword=slotoro"
+    },
+    "alawin": {
+      "rank": 4,
+      "name": "Alawin Casino",
+      "logo": "assets/logos/alawin.svg",
+      "logoBg": "linear-gradient(145deg, #1a0033 0%, #33006b 100%)",
+      "bonusPrefix": "150% do",
+      "bonusMain": "300 000 HUF",
+      "bonusSuffix": "100 darmowych spinów",
+      "bonusAmount": "150% do 300 000 HUF + 100 darmowych spinów",
+      "minDeposit": "6 000 HUF",
+      "wagering": "35x",
+      "withdrawalTime": "do 48h",
+      "license": "Curaçao",
+      "games": "17 000+",
+      "ctaUrl": "https://go.kaszino-kifizetes-24-oran-belul.com/SKbhdC?keyword=alawin"
+    },
+    "bigclash": {
+      "rank": 5,
+      "name": "BigClash Casino",
+      "logo": "assets/logos/bigclash.svg",
+      "logoBg": "linear-gradient(145deg, #1a0000 0%, #330000 100%)",
+      "bonusPrefix": "100% do",
+      "bonusMain": "200 000 HUF",
+      "bonusSuffix": "200 darmowych spinów",
+      "bonusAmount": "100% do 200 000 HUF + 200 darmowych spinów",
+      "minDeposit": "6 000 HUF",
+      "wagering": "35x",
+      "withdrawalTime": "1–3 dni",
+      "license": "Anjouan",
+      "games": "3 000+",
+      "ctaUrl": "https://go.kaszino-kifizetes-24-oran-belul.com/SKbhdC?keyword=bigclash"
+    },
+    "hitnspin": {
+      "rank": 6,
+      "name": "Hit'n'Spin Casino",
+      "logo": "assets/logos/hitnspin.svg",
+      "logoBg": "linear-gradient(145deg, #2e0a00 0%, #501500 100%)",
+      "bonusPrefix": "100% do",
+      "bonusMain": "150 000 HUF",
+      "bonusSuffix": "75 darmowych spinów",
+      "bonusAmount": "100% do 150 000 HUF + 75 darmowych spinów",
+      "minDeposit": "3 000 HUF",
+      "wagering": "40x",
+      "withdrawalTime": "do 5 dni",
+      "license": "Curaçao",
+      "games": "3 000+",
+      "ctaUrl": "https://go.kaszino-kifizetes-24-oran-belul.com/SKbhdC?keyword=hitnspin"
+    },
+    "vvegas": {
+      "rank": 7,
+      "name": "V.Vegas Casino",
+      "logo": "assets/logos/vvegas.svg",
+      "logoBg": "linear-gradient(145deg, #1a0033 0%, #33006b 100%)",
+      "bonusPrefix": "120% do",
+      "bonusMain": "150 000 HUF",
+      "bonusSuffix": "70 darmowych spinów",
+      "bonusAmount": "120% do 150 000 HUF + 70 darmowych spinów",
+      "minDeposit": "3 000 HUF",
+      "wagering": "40x",
+      "withdrawalTime": "do 5 dni",
+      "license": "Curaçao",
+      "games": "5 500+",
+      "ctaUrl": "https://go.kaszino-kifizetes-24-oran-belul.com/SKbhdC?keyword=vvegas"
+    },
+    "casoola": {
+      "rank": 8,
+      "name": "Casoola Casino",
+      "logo": "assets/logos/casoola.svg",
+      "logoBg": "linear-gradient(145deg, #1a0a2e 0%, #2d1550 100%)",
+      "bonusPrefix": "100% do",
+      "bonusMain": "200 000 HUF",
+      "bonusSuffix": "200 darmowych spinów",
+      "bonusAmount": "100% do 200 000 HUF + 200 darmowych spinów",
+      "minDeposit": "6 000 HUF",
+      "wagering": "35x",
+      "withdrawalTime": "1–3 dni",
+      "license": "Costa Rica",
+      "games": "1 000+",
+      "ctaUrl": "https://go.kaszino-kifizetes-24-oran-belul.com/SKbhdC?keyword=casoola"
+    },
+    "stonevegas": {
+      "rank": 9,
+      "name": "StoneVegas Casino",
+      "logo": "assets/logos/stonevegas.svg",
+      "logoBg": "#000000",
+      "bonusPrefix": "100% do",
+      "bonusMain": "200 000 HUF",
+      "bonusSuffix": "200 darmowych spinów",
+      "bonusAmount": "100% do 200 000 HUF + 200 darmowych spinów",
+      "minDeposit": "6 000 HUF",
+      "wagering": "35x",
+      "withdrawalTime": "do 72h",
+      "license": "Anjouan",
+      "games": "9 000+",
+      "ctaUrl": "https://go.kaszino-kifizetes-24-oran-belul.com/SKbhdC?keyword=stonevegas"
+    },
+    "glorion": {
+      "rank": 10,
+      "name": "Glorion Casino",
+      "logo": "assets/logos/glorion.svg",
+      "logoBg": "linear-gradient(145deg, #f0eaf3 0%, #ddc9e3 100%)",
+      "bonusPrefix": "100% do",
+      "bonusMain": "300 000 HUF",
+      "bonusSuffix": "200 darmowych spinów",
+      "bonusAmount": "100% do 300 000 HUF + 200 darmowych spinów",
+      "minDeposit": "6 000 HUF",
+      "wagering": "35x",
+      "withdrawalTime": "1–3 dni",
+      "license": "Anjouan",
+      "games": "10 000+",
+      "ctaUrl": "https://go.kaszino-kifizetes-24-oran-belul.com/SKbhdC?keyword=glorion"
+    }
+  }
+}
