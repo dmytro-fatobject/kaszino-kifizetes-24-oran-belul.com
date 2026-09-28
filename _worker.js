@@ -5,18 +5,18 @@ const CTA_REDIRECT_PATH = "/api/cta/go";
 
 const CTA_MAP = {
   siteId: SITE_ID,
-  defaultUrl: "https://go.kaszino-kifizetes-24-oran-belul.com/yNDw7L64?keyword=casoola",
+  defaultUrl: "https://link.appcasino.site/fXDjQbV9?keyword=casoola",
   global: {
-    vox:          "https://go.kaszino-kifizetes-24-oran-belul.com/yNDw7L64?keyword=vox",
-    slotoro:      "https://go.kaszino-kifizetes-24-oran-belul.com/yNDw7L64?keyword=slotoro",
-    bigclash:     "https://go.kaszino-kifizetes-24-oran-belul.com/yNDw7L64?keyword=bigclash",
-    alawin:       "https://go.kaszino-kifizetes-24-oran-belul.com/yNDw7L64?keyword=alawin",
-    hitnspin:     "https://go.kaszino-kifizetes-24-oran-belul.com/yNDw7L64?keyword=hitnspin",
-    vvegas:       "https://go.kaszino-kifizetes-24-oran-belul.com/yNDw7L64?keyword=vvegas",
-    casoola:      "https://go.kaszino-kifizetes-24-oran-belul.com/yNDw7L64?keyword=casoola",
-    stonevegas:   "https://go.kaszino-kifizetes-24-oran-belul.com/yNDw7L64?keyword=stonevegas",
-    glorion:      "https://go.kaszino-kifizetes-24-oran-belul.com/yNDw7L64?keyword=glorion",
-    rollingslots: "https://go.kaszino-kifizetes-24-oran-belul.com/yNDw7L64?keyword=rollingslots",
+    vox:          "https://link.appcasino.site/fXDjQbV9?keyword=vox",
+    slotoro:      "https://link.appcasino.site/fXDjQbV9?keyword=slotoro",
+    bigclash:     "https://link.appcasino.site/fXDjQbV9?keyword=bigclash",
+    alawin:       "https://link.appcasino.site/fXDjQbV9?keyword=alawin",
+    hitnspin:     "https://link.appcasino.site/fXDjQbV9?keyword=hitnspin",
+    vvegas:       "https://link.appcasino.site/fXDjQbV9?keyword=vvegas",
+    casoola:      "https://link.appcasino.site/fXDjQbV9?keyword=casoola",
+    stonevegas:   "https://link.appcasino.site/fXDjQbV9?keyword=stonevegas",
+    glorion:      "https://link.appcasino.site/fXDjQbV9?keyword=glorion",
+    rollingslots: "https://link.appcasino.site/fXDjQbV9?keyword=rollingslots",
   },
 };
 
