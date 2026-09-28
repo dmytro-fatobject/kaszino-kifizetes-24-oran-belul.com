@@ -7,14 +7,14 @@
     de: { more: "Mehr anzeigen", less: "Weniger anzeigen", readMore: "Mehr erfahren", readLess: "Weniger anzeigen" },
     en: { more: "Show more", less: "Show less", readMore: "Read more", readLess: "Show less" },
     ro: { more: "Arată mai mult", less: "Arată mai puțin", readMore: "Detalii", readLess: "Mai puțin" },
-    cs: { more: "Zobrazit více", less: "Zobrazit méně", readMore: "Více informací", readLess: "Méně" },
+    sk: { more: "Zobraziť viac", less: "Zobraziť menej", readMore: "Viac informácií", readLess: "Menej" },
   };
   const A11Y_LABELS = {
     hu: { dot: (n) => "Mutasd a(z) " + n + ". játékot", close: "Előnézet bezárása", prev: "Előző képernyőkép", next: "Következő képernyőkép" },
     de: { dot: (n) => "Spiel " + n + " anzeigen", close: "Vorschau schließen", prev: "Vorheriger Screenshot", next: "Nächster Screenshot" },
     en: { dot: (n) => "Show game " + n, close: "Close preview", prev: "Previous screenshot", next: "Next screenshot" },
     ro: { dot: (n) => "Arată jocul " + n, close: "Închide previzualizarea", prev: "Captura de ecran anterioară", next: "Captura de ecran următoare" },
-    cs: { dot: (n) => "Zobrazit hru " + n, close: "Zavřít náhled", prev: "Předchozí snímek obrazovky", next: "Další snímek obrazovky" },
+    sk: { dot: (n) => "Zobraziť hru " + n, close: "Zavrieť náhľad", prev: "Predchádzajúca snímka obrazovky", next: "Nasledujúca snímka obrazovky" },
   };
   const A = A11Y_LABELS[LOCALE] || A11Y_LABELS.hu;
   const T = TOGGLE_LABELS[LOCALE] || TOGGLE_LABELS.hu;
